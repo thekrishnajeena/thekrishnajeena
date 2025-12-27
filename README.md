@@ -2,7 +2,7 @@
 
 > “Curiosity built my code.”  
 
-I’m an **Android Developer** who believes apps aren’t just built — they’re *crafted*.  
+I’m an **Android Developer** who believes apps aren’t just built they’re *crafted*.  
 Currently exploring how design, data, and behavior connect inside a device, one project at a time.  
 
 ### 💡 What I’m Building & Learning
@@ -27,7 +27,7 @@ Currently exploring how design, data, and behavior connect inside a device, one 
 Every project I make is a step toward better systems, in design, thought, and code.  
 
 ### 📫 Let’s Connect
-- **Portfolio:** [iamjustkrishna.space]  
+- **Portfolio:** [https://iamjustkrishna.space]  
 - **X (Twitter):** [https://x.com/iamjustkrishna]   
 
 ---
